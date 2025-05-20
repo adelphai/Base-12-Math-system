@@ -13,3 +13,4 @@ Delph, A. (2025). *Duodecimal Reality Framework: Prime-Indexed Base Systems and 
 GitHub: https://github.com/YOUR-REPO-LINK  
 License: MIT
 
+andydelph@icloud.com
